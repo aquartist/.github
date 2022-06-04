@@ -1,4 +1,4 @@
-# Aquartist
+# 🌊 Aquartist
 Aquartist est une entreprise créé pour satisfaire vos attentes !
 
 Nous proposons plusieurs type de prestations tel que du Graphisme, du Développement,
